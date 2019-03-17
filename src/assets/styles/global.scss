@@ -1,0 +1,13 @@
+@import "reset.css";
+
+// 1rem = fontSize px
+@fontSize=37.5;
+@function px2rem($px){
+  @return ($px/$fontSzie)+rem;
+}
+
+@mixin center(){
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

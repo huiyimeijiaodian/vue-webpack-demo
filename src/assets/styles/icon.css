@@ -1,0 +1,45 @@
+@font-face {font-family: "iconfont";
+  src: url('fonts/iconfont.eot?t=1552827057654'); /* IE9 */
+  src: url('fonts/iconfont.eot?t=1552827057654#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQUAAsAAAAACigAAAPHAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDZAqGQIVqATYCJAMgCxIABCAFhG0HgQwb+AgRFZzZyH4kxjEpq2KWvIkm2s0E8VTXW2+6Z6YXof3tWLuBdMsNwA3ybHjL7SMANnVWfsLbNSzBsevTjntAclyDfLJKf3+sdLOB8m1+W5BVjM6rCj66Hk+OajqSEjlBv0d0hgl1TzbjfgjgpzYtkYGDR0Zh0MhhAsik/Nx0TMGP7uAKxuU0nKuRLdgYa611D9gc/b78pr0YsLAV8qCxOYOy6OstjgxVoZIQSSpEaH9RYHQRKKAloEFCjfEFqKSiJQr/4iOa0UAQg4X2FntLveXen8jQkpIC73dkiFmSQlDtpelfnoVCY+PggjiQPYjELJt7Fw0egoC3FMECbzmCAu83ggbvD4INkSEIDkSG+nERb5xlseofyCIk9rQrxUpjhVUzGKzgtKyRU0rPDfv9UTH+HYQqRUcF1w7ERgd2S7hyTOzuhGfPop4/j375MvbFi3lsjYm1+bJnz+ZG7TAmdu6WPtpwUrv6Vc2M2bWD/W4coZ1VYneHkZDDyM7C5FrnLrwVsw5EyJ6fk7t74ZZfz9tR0b+rstpdJbCzUnzWp5sfF7XDv+6YcJXdlaIr7TxS05j+GXNUtv80V5UL75tXTrnTKthQaznS8KouLNRX0VtY6JuzVoGvbQ6qx48VWg4OtWjmViR0/X+yvqmHrfrPtNuUvb01T7fq7bJt7Jmpei+UfavG6bcDS//KqtYzBy/TtkV7bqW2X26PMlG5VbVWlBllL29P1Rdr8/RwOvZi5zKoq/oeoEOp8U5a2zSnbTD7Y5vcIO3bt7r5+lBZ5bq9VLlOmanG35mlAJRcVzdUnwh7Q63vrqD8VhFgPYP+uv5CAIGqTbL/pJbp+d8ENACvzmSexHzJdc1+Kg0WmA1/RYNxlF6aJGD0fHCeH9lXvCNqXGYBfp0Ff8J0eT7s01nJ3BQEQ6UMLFxqgcLQEKuJLcEmQEdwMPQBPy0YcnGACsxAIdoHNGclgFCW42BRmuugKMt9rCa+B5vK/AWHsqLAT4xUuGbARmOx12+CneII/RnswJFcSK/j5t9o9r6TvCni/6NkWwxNWZervzCi7OOEfDCtKgEJB/iEh6H3DEl4h4OWk2raVhU1fVI5cJhdM0CwUxyB/gzYgSMFc+t15ee/0ex9Jx39LlT/UbJdO9BQUhuwX/Zo6vdcds4H06JKfBAJB+ATo+i1goHUvNcOBy2ZtihLWyoaj6z28vjO8EovA/zIs41YokSLLY64YsRHMNNzxmKwMni8cUHSrPpWrJmG+LVt1db1NfERhYnqv1GQ9f4x+e5c8s1m') format('woff2'),
+  url('fonts/iconfont.woff?t=1552827057654') format('woff'),
+  url('fonts/iconfont.ttf?t=1552827057654') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('fonts/iconfont.svg?t=1552827057654#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close-circle:before {
+  content: "\e77d";
+}
+
+.icon-left-circle:before {
+  content: "\e77f";
+}
+
+.icon-right-circle:before {
+  content: "\e783";
+}
+
+.icon-right:before {
+  content: "\e7eb";
+}
+
+.icon-left:before {
+  content: "\e7ec";
+}
+
+.icon-poweroff-circle-fill:before {
+  content: "\e847";
+}
+
+.icon-play-circle-fill:before {
+  content: "\e848";
+}
+
